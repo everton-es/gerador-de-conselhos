@@ -48,7 +48,7 @@ body {
     top: -40px;
     cursor: pointer;
     content: '';
-    background: url(/src/images/icon-dice.svg) center;
+    background: url(../images/icon-dice.svg) center;
     background-repeat: no-repeat;
     width: 65px;
     height: 65px;    
